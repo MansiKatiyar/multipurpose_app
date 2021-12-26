@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_eight.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_eighteenth.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_eleventh.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_fifteenth.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_fifth.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_fourteen.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_fourth.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_nineteenth.xml" value="0.16" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_ninth.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_second.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_seventeenth.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_seventh.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_sixteenth.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_sixth.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_tenth.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_third.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_thirteen.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_twelfth.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_twentieth.xml" value="0.15" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_twentyfive.xml" value="0.1" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_twentyfour.xml" value="0.1" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_twentyone.xml" value="0.12" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_twentyone2.xml" value="0.15" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_twentythree.xml" value="0.1" />
+        <entry key="..\:/Users/mansi/AndroidStudioProjects/androidproject/app/src/main/res/layout/activity_twentytwo.xml" value="0.15" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
